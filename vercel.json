@@ -5,20 +5,8 @@
       "destination": "/pages/home.html"
     },
     {
-      "source": "/home.html",
-      "destination": "/pages/home.html"
-    },
-    {
-      "source": "/shop.html",
-      "destination": "/pages/shop.html"
-    },
-    {
-      "source": "/cart.html",
-      "destination": "/pages/cart.html"
-    },
-    {
-      "source": "/productPage.html",
-      "destination": "/pages/productPage.html"
+      "source": "/:file(home|shop|cart|productPage).html",
+      "destination": "/pages/:file.html"
     }
   ]
 }
