@@ -1,0 +1,305 @@
+.land-area{
+    background-image: url(../images/head\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    aspect-ratio: 16 / 9; 
+    height: calc(100vh + 100px);
+    margin-bottom: 100px;
+    position: relative;
+    z-index: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 15px;
+}
+@media (max-width: 767px) {
+    .land-area{
+        height: calc(100vh);
+        width: 98%;
+        margin: 0 auto;
+    }
+}
+.land-area .layout{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(10, 20, 40, 0.6);
+    z-index: 1;
+}
+.land-area .land-content{
+    position: relative;
+    z-index: 3;
+    color: white;
+    text-align: center;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.land-area .land-content h1{
+    font-size: 80px;
+    font-weight: bolder;
+}
+.land-area .land-content p{
+    margin-top: -13px;
+    font-size: 22px;
+    font-weight: 500;
+}
+.land-area .land-content .shopNow{
+    text-decoration: none;
+    display: block;
+    text-align: left;
+    margin: 50px 3px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    width: fit-content;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 15px;
+    transition: .3;
+    width: 190px;
+}
+.land-area .land-content .shopNow i{
+    margin-left: 10px;
+    transition: .3s;
+}
+.land-area .land-content .shopNow:hover i{
+    margin-left: 15px;
+}
+
+/* Start Items Area */
+.items-area .title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.items-area .title .text h3{
+    font-weight: bold;
+    font-size: 35px;
+}
+.items-area .title .text p{
+    font-weight: 500;
+    font-size: 20px;
+    color: #333;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.items-area .title a{
+    display: block;
+    text-decoration: none;
+    text-align: left;
+    padding: 10px 20px;
+    padding-right: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(23, 23, 23);
+    font-weight: bold;
+    font-size: 13px;
+    transition: .3;
+    width: 120px;
+    border-radius: 6px;
+    border: 1px solid #333;
+     box-shadow: 0px 0 4px 0px #00000047;
+}
+.items-area .title a i{
+    margin-left: 10px;
+    transition: .3s;
+}
+.items-area .title a:hover{
+    background-color: #eeee;
+}
+.items-area .title a:hover i{
+    margin-left: 15px;
+}
+
+
+
+/* Start product style */ 
+/* .items-card{
+    margin: 20px 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px, 1fr));
+    gap: 30px;
+}
+.items-card .box{
+    padding: 5px;
+    transition: .3s;
+    cursor: pointer;
+}
+.items-card .box .image{
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+}
+.items-card .box .image img{
+    width: 100%;
+    height: 100%;
+    transition: .3s;
+}
+.items-card .box .text{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15px;
+}
+.items-card .box .text .desc{
+    font-size: 20px;
+    font-weight: bold;
+}
+.items-card .box .text .price{
+    font-weight: 400;
+}
+.items-card .box .categ{
+    margin: 5px 0;
+    color: #333;
+}
+
+.items-card .box .add-to-card{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+    height: 35px;
+    font-weight: bold;
+    border: .7px solid #333;
+    border-radius: 15px;
+    cursor: pointer;
+    margin: 10px 0;
+    transition: .3;
+}
+.items-card .box .add-to-card i{
+    margin-right: 10px;
+
+    display: inline-block;
+}
+.items-card .box .add-to-card:hover{
+    background-color: #eee;
+}
+
+.items-card .box:hover .image img{
+    transform: rotate(10deg);
+    transform: scale(1.1);
+} */
+
+
+
+/* /* Start Category Area AT Home Page */
+
+.shop-by-category{
+    width: 100%;
+    background-color: #dddddd4a;
+}
+.shop-by-category .container h3{
+    width: 100%;
+    margin: 40px 0;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 45px;
+    padding-top: 50px;
+}
+.shop-by-category .container .card-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fill , minmax(300px , 1fr));
+    gap: 30px;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+.shop-by-category .container .card-container .card{
+    height: 400px;
+    background-color: #00000047;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    transition: .3s;
+}
+.shop-by-category .container .card-container .card p{
+    font-weight: bold;
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+}
+.shop-by-category .container .card-container .card:hover{
+    background-color: #d1d1d1;
+}
+
+/*  start Stay In Loop Area */
+
+.stay-in-loop{
+    margin: 100px 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.stay-in-loop h3{
+    font-weight: bolder;
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+.stay-in-loop p{
+    margin: 20px;
+    font-size: 18px;
+    color: #333;
+}
+.stay-in-loop .form{
+    max-width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.stay-in-loop .form input{
+    display: block;
+    border: .3px solid #c4c4c4;
+    padding: 15px 20px;
+    width: 350px;
+    height: 50px;
+    transition: .3s;
+    font-weight: 500;
+}
+.stay-in-loop .form input:focus{
+    border: none;
+    outline: none;
+    border: .7px solid #333;
+}
+.stay-in-loop .form .subscribe{
+    background-color: black;
+    padding: 10px 20px;
+    color: white;
+    transition: .3s;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.stay-in-loop .form .subscribe:hover{
+    background-color: rgb(65, 65, 65);
+}
+
+@media (max-width: 767px) {
+    .stay-in-loop{
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .stay-in-loop .form {
+        width: 97%;
+        margin: auto;
+    }
+    .stay-in-loop .form input{
+        width: 100%;
+    }
+    .stay-in-loop .form .subscribe{
+        width: 100%;
+    }
+}

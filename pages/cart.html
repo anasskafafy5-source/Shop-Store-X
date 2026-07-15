@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cart Page</title>
+     <!--Google Fonts  -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<!-- Normalize file -->
+ <link rel="stylesheet" href="../style/normalize.css">
+ <!-- Font awesome -->
+  <link rel="stylesheet" href="../style/all.min.css">
+  <!-- Components style -->
+ <link rel="stylesheet" href="../style/components.css">
+ <link rel="stylesheet" href="../style/cartPage.css">
+</head>
+<body>
+    <div class="the-main-title">
+    <div class="fixed-titel">
+        <p>Clothes Shop</p>
+    </div>
+    <div class="nav-bar">
+        <p>LUXE</p>
+        <div class="options">
+            <div id="home-b">Home</div>
+            <div  id="shop-b">Shop</div>
+            <div id="cart-b">Cart</div>
+        </div>
+        <div class="cart-icon">
+           <i  class="fas fa-shopping-bag"></i>
+           <button class="show-tool-bar">
+            <span></span>
+            <span></span>
+            <span></span>
+           </button>
+        </div>
+        
+    </div>
+    <div class="tool-bar ">
+            <div class="active" id="home-t">Home</div>
+            <div id="shop-t">Shop</div>
+            <div id="cart-t">Cart</div>
+           </div>
+    </div>
+    <!-- start empty cart -->
+     <!-- <div class="empty-cart">
+        <h3>Your Cart Is Empty</h3>
+        <p>Looks like you haven't added anything to your cart yet.</p>
+        <a id="continue-shop" href="shop.html">Continue Shoping</a>
+     </div> -->
+    <!-- end empty cart -->
+
+
+    <!-- IF Is Not Empty -->
+    <!-- Start Is Not Empty -->
+     <div class="cart-items">
+        <div class="container">
+            <div class="title">
+                <h2>Shopping Cart</h2>
+                <button onclick="clearAllCartItems()" class="clear-cart">Clear Cart</button>
+            </div>
+            <div class="main-cart">
+                <div class="items">
+                    <div class="item">
+                        <div class="left">
+                            <div class="image"><img src="../images/pexels-maria-geller-801267-2127037.jpg"></div>
+                            <div class="content">
+                                <p class="product-title">Classic Leather Jacket</p>
+                                <p class="product-category">Women</p>
+                                <p class="price">$100.99</p>
+                                <div class="handle-product-number">
+                                    <div class="number">
+                                        <span class="neg">-</span>
+                                        <span class="items-number">3</span>
+                                        <span class="add">+</span>
+                                    </div>
+                                    <div class="delete-item"><i class="fa fa-trash"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="right-total-price">$200.33</div>
+                    </div>
+                    <div class="item">
+                        <div class="left">
+                            
+                            <div class="content">
+                                <p class="product-title">Classic Leather Jacket</p>
+                                <p class="product-category">Women</p>
+                                <p class="price">$100.99</p>
+                                <div class="handle-product-number">
+                                    <div class="number">
+                                        <span class="neg">-</span>
+                                        <span class="items-number">3</span>
+                                        <span class="add">+</span>
+                                    </div>
+                                    <div class="delete-item"><i class="fa fa-trash"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="right-total-price">$200.33</div>
+                    </div>
+                </div>
+                <div class="order-summary">
+                    <h2>Order Summary</h2>
+                    <div>
+                        <div>SubTotal</div>
+                        <div class="sub-total">$0</div>
+                    </div>
+                    <div>
+                        <div>Shipping</div>
+                        <div class="shiping">Free</div>
+                    </div>
+                    <div class="total">
+                        <div>Total</div>
+                        <div class="total-price-all">$ 0</div>
+                    </div>
+                    <button class="proceed">Proceed To Checkout</button>
+                    <a class="cont" href="shop.html">Continue Shopping</a>
+                </div>
+            </div>
+        </div>
+     </div>
+    <!-- end Is Not Empty -->
+
+    <!-- Start Footer -->
+     <footer>
+        <div class="footer-content">
+            <div class="brand">
+                <h4>LUXE</h4>
+                <p>Premium clothing for the modern lifestyle.</p>
+            </div>
+            <div class="shop">
+                <h5>Shop</h5>
+                <div>Women</div>
+                <div>Men</div>
+                <div>Accessories</div>
+                <div>New Arrivals</div>
+            </div>
+            <div class="support">
+                <h5>Support</h5>
+                <div>Contact Us</div>
+                <div>Shipping & Returns</div>
+                <div>Size Giude</div>
+                <div>FAQ</div>
+            </div>
+            <div class="company">
+                <h5>About Us</h5>
+                <div>Careares</div>
+                <div>Privacy Policy</div>
+                <div>Terms Of Service</div>
+            </div>
+        </div>
+
+        <div class="brand-name">
+            <p>© 2026 LUXE. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <!-- end Footer -->
+    <script src="../js/main.js"></script>
+</body>
+</html>
+

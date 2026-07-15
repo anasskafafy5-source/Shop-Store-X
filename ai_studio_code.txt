@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Slim Fit Urban Bomber Jacket",
+    "price": 89.99,
+    "description": "A sleek, lightweight bomber jacket perfect for urban layering.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1505022610485-0249ba5b3675?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Essential Cotton Henley",
+    "price": 35.50,
+    "description": "Breathable cotton blend henley for everyday casual wear.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1488161628813-04466f872be2?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Tailored Chino Trousers",
+    "price": 65.00,
+    "description": "Classic tailored chinos crafted from premium stretch cotton.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Classic Denim Trucker Jacket",
+    "price": 120.00,
+    "description": "Vintage-wash denim jacket featuring durable brass hardware.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Minimalist Wool Overcoat",
+    "price": 175.00,
+    "description": "Sophisticated wool blend overcoat with clean, sharp lines.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Performance Active Tee",
+    "price": 28.00,
+    "description": "Moisture-wicking athletic tee designed for high-intensity workouts.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1516257984-b1b4d707412e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Textured Knit Sweater",
+    "price": 85.00,
+    "description": "Chunky textured knit sweater to keep you warm in style.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1550246140-5119ae4790b8?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Relaxed Linen Shirt",
+    "price": 45.99,
+    "description": "Airy and comfortable linen shirt for warmer days.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1520975954732-57dd06dd5d14?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Modern Cargo Pants",
+    "price": 75.50,
+    "description": "Utilitarian cargo pants redefined with a streamlined silhouette.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1480455624313-e29b44bbfde1?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Signature Leather Moto Jacket",
+    "price": 180.00,
+    "description": "Genuine leather moto jacket featuring asymmetrical zip detailing.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1489980557514-251d61e3eeb6?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 11,
+    "title": "Silk Slip Midi Dress",
+    "price": 110.00,
+    "description": "Elegant pure silk midi dress that drapes beautifully.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 12,
+    "title": "High-Waisted Wide Leg Trousers",
+    "price": 88.50,
+    "description": "Flowy wide-leg trousers that combine comfort with office-ready polish.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 13,
+    "title": "Chunky Cable Knit Cardigan",
+    "price": 65.00,
+    "description": "Oversized cozy cardigan with intricate cable knit patterns.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1581067723546-699790a5553e?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 14,
+    "title": "Structured Crepe Blazer",
+    "price": 135.00,
+    "description": "A sharply tailored blazer to elevate any professional or casual look.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 15,
+    "title": "Pleated A-Line Skirt",
+    "price": 55.00,
+    "description": "Classic pleated skirt crafted from soft, lightweight chiffon.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 16,
+    "title": "Ribbed Turtleneck Sweater",
+    "price": 42.00,
+    "description": "Form-fitting ribbed sweater ideal for chic winter layering.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 17,
+    "title": "Cropped Faux Leather Jacket",
+    "price": 95.00,
+    "description": "Edgy cropped jacket featuring silver-tone hardware and a smooth finish.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 18,
+    "title": "Wrap Front Blouse",
+    "price": 38.00,
+    "description": "Flattering wrap blouse with a subtle V-neckline and tie waist.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1532453288672-3a27e9be9efd?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 19,
+    "title": "Distressed Boyfriend Jeans",
+    "price": 72.00,
+    "description": "Relaxed-fit denim with authentic distressed details and rolled cuffs.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1485230405346-71acb9518d9c?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 20,
+    "title": "Bohemian Maxi Dress",
+    "price": 125.00,
+    "description": "Floor-sweeping floral maxi dress perfect for summer evenings.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 21,
+    "title": "Minimalist Chronograph Watch",
+    "price": 150.00,
+    "description": "Sleek stainless steel timepiece with a matte black dial.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 22,
+    "title": "Classic Leather Satchel",
+    "price": 165.00,
+    "description": "Premium full-grain leather satchel with antique brass buckles.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 23,
+    "title": "Polarized Aviator Sunglasses",
+    "price": 85.00,
+    "description": "Lightweight metal frame sunglasses offering 100% UV protection.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 24,
+    "title": "Canvas Urban Backpack",
+    "price": 55.00,
+    "description": "Durable water-resistant canvas backpack with a dedicated laptop sleeve.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1542491595-62e924f46061?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 25,
+    "title": "Woven Braided Belt",
+    "price": 25.00,
+    "description": "Flexible woven belt featuring a sturdy metal prong buckle.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 26,
+    "title": "Geometric Silk Scarf",
+    "price": 32.50,
+    "description": "Vibrant geometric print scarf made from 100% smooth silk.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1559563458-527698bf5295?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 27,
+    "title": "Slim Bifold Leather Wallet",
+    "price": 45.00,
+    "description": "Minimalist front-pocket wallet crafted from rich mahogany leather.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1572196284554-4e321c0e0e15?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 28,
+    "title": "Gold-Plated Layered Necklace",
+    "price": 68.00,
+    "description": "Delicate tiered necklace adding subtle elegance to any outfit.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1509319117193-57bab727e09d?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 29,
+    "title": "Wide Brim Wool Fedora",
+    "price": 95.00,
+    "description": "Structured wool fedora accented with a premium grosgrain ribbon.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 30,
+    "title": "Premium Suede Chelsea Boots",
+    "price": 140.00,
+    "description": "Classic Chelsea boot silhouette with soft suede and elastic side panels.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1606760227091-3dd870d97f1d?auto=format&fit=crop&w=600&q=80"
+  }
+]

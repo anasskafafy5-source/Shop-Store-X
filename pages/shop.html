@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shop Page</title>
+     <!--Google Fonts  -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+<!-- Normalize file -->
+ <link rel="stylesheet" href="../style/normalize.css">
+ <!-- Font awesome -->
+  <link rel="stylesheet" href="../style/all.min.css">
+  <!-- Components style -->
+ <link rel="stylesheet" href="../style/components.css">
+ <link rel="stylesheet" href="../style/shopPage.css">
+</head>
+<body>
+    <div class="the-main-title">
+    <div class="fixed-titel">
+        <p>Clothes Shop</p>
+    </div>
+    <div class="nav-bar">
+        <p>LUXE</p>
+        <div class="options">
+            <div   class="active" id="home-b">Home</div>
+            <div  id="shop-b">Shop</div>
+            <div  id="cart-b">Cart</div>
+        </div>
+        <div class="cart-icon">
+           <i  class="fas fa-shopping-bag"><span></span></i>
+           <button class="show-tool-bar">
+            <span></span>
+            <span></span>
+            <span></span>
+           </button>
+        </div>
+        
+    </div>
+    <div class="tool-bar">
+            <div id="home-t">Home</div>
+            <div id="shop-t">Shop</div>
+            <div id="cart-t">Cart</div>
+           </div>
+    </div>
+    <h1>Shop</h1>
+    <div class="category-sec">
+        <p>Category</p>
+        <div class="categories-area">
+            <div onclick="allCategoryButtonFun()" class="all active">All</div>
+            <div onclick="menCategoryButtonFun()" class="men">Men</div>
+            <div onclick="womenCategoryButtonfun()" class="women">Women</div>
+            <div onclick="accessCategoryButtonFun()" class="accessories">Accessories</div>
+        </div>
+    </div>
+
+    <div class="sort-sec">
+        <p>Sort BY</p>
+        <select onchange="handleSelectBox()">
+            <option value="all">Featured</option>
+            <option value="low">Low Price</option>
+            <option value="high">High Price</option>
+        </select>
+    </div>
+
+    <span id="items-count">
+        Products
+    </span>
+
+    <!-- start item cart -->
+     <div class="items-card">
+
+    </div>
+     <!--end item card  -->
+
+
+     <!-- Start Footer -->
+     <!-- Start Footer -->
+      <footer>
+        <div class="footer-content">
+            <div class="brand">
+                <h4>LUXE</h4>
+                <p>Premium clothing for the modern lifestyle.</p>
+            </div>
+            <div class="shop">
+                <h5>Shop</h5>
+                <div>Women</div>
+                <div>Men</div>
+                <div>Accessories</div>
+                <div>New Arrivals</div>
+            </div>
+            <div class="support">
+                <h5>Support</h5>
+                <div>Contact Us</div>
+                <div>Shipping & Returns</div>
+                <div>Size Giude</div>
+                <div>FAQ</div>
+            </div>
+            <div class="company">
+                <h5>About Us</h5>
+                <div>Careares</div>
+                <div>Privacy Policy</div>
+                <div>Terms Of Service</div>
+            </div>
+        </div>
+
+        <div class="brand-name">
+            <p>© 2026 LUXE. All rights reserved.</p>
+        </div>
+    </footer>
+     <!-- End Footer -->
+    <script src="../js/main.js"></script>
+</body>
+</html>
+

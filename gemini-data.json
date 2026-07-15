@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "title": "Classic Men's Denim Jacket",
+    "price": 85.50,
+    "description": "A timeless denim jacket crafted for durability and everyday wear.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1488161628813-04466f872be2?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Urban Streetwear Hoodie",
+    "price": 55.00,
+    "description": "Comfortable and stylish hoodie perfect for cool urban evenings.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1505022610485-0249ba5b3675?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 3,
+    "title": "Men's Tailored Suit Jacket",
+    "price": 145.00,
+    "description": "Sophisticated tailored jacket designed for professional elegance.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Casual Cotton Chinos",
+    "price": 45.99,
+    "description": "Breathable cotton chinos offering versatility for any casual setting.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Minimalist White Button-Down",
+    "price": 60.00,
+    "description": "Crisp white button-down shirt that serves as a wardrobe essential.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Vintage Wash Straight Jeans",
+    "price": 78.50,
+    "description": "Classic straight-leg jeans featuring a premium vintage wash finish.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1507680434567-5739c80be1ac?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 7,
+    "title": "Textured Knit Sweater",
+    "price": 89.90,
+    "description": "Cozy knit sweater providing warmth without compromising on style.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1495603889488-42d1d66e5523?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 8,
+    "title": "Essential V-Neck Tee",
+    "price": 24.99,
+    "description": "Soft, breathable V-neck t-shirt ideal for layering or solo wear.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1552374196-1ab2a1c593e8?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 9,
+    "title": "Modern Fit Polo Shirt",
+    "price": 35.00,
+    "description": "Sporty yet refined polo shirt cut for a modern, flattering fit.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1617137968427-85924c800a22?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 10,
+    "title": "Men's Lightweight Trench Coat",
+    "price": 125.00,
+    "description": "A stylish lightweight trench coat perfect for transitional weather.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 11,
+    "title": "Elegant Evening Gown",
+    "price": 135.00,
+    "description": "Stunning evening gown designed with delicate fabrics for special occasions.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 12,
+    "title": "Bohemian Floral Maxi Dress",
+    "price": 85.00,
+    "description": "Flowy and vibrant maxi dress embracing a chic bohemian aesthetic.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 13,
+    "title": "High-Waisted Office Trousers",
+    "price": 65.50,
+    "description": "Sleek high-waisted trousers providing comfort and professional flair.",
+    "category": "women",
+    "image": "https://images.pexels.com/photos/9377959/pexels-photo-9377959.jpeg"
+  },
+  {
+    "id": 14,
+    "title": "Chic Silk Blouse",
+    "price": 79.99,
+    "description": "Luxurious silk blouse featuring a relaxed fit and elegant drape.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 15,
+    "title": "Ribbed Turtleneck Sweater",
+    "price": 54.00,
+    "description": "Form-fitting ribbed turtleneck sweater for stylish winter layering.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 16,
+    "title": "Distressed Denim Skirt",
+    "price": 42.50,
+    "description": "Casual distressed denim skirt offering a modern vintage look.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 17,
+    "title": "Women's Oversized Blazer",
+    "price": 110.00,
+    "description": "Trendy oversized blazer perfect for both formal and smart-casual outfits.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1525507119028-ed4c629a60a3?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 18,
+    "title": "Cropped Leather Jacket",
+    "price": 145.00,
+    "description": "Edgy cropped leather jacket that adds instant attitude to any ensemble.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1485230895905-ec40ba36b9bc?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 19,
+    "title": "Lace Trim Cami Top",
+    "price": 28.00,
+    "description": "Delicate cami top detailed with a subtle lace trim for feminine charm.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 20,
+    "title": "Wrap Midi Dress",
+    "price": 95.00,
+    "description": "Flattering wrap midi dress tailored for a customizable, secure fit.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1520975954732-35dd22299614?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 21,
+    "title": "Classic Aviator Sunglasses",
+    "price": 120.00,
+    "description": "Timeless aviator sunglasses featuring polarized lenses and a metal frame.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 22,
+    "title": "Genuine Leather Belt",
+    "price": 35.00,
+    "description": "Durable full-grain leather belt designed for everyday utility and style.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 23,
+    "title": "Minimalist Silver Watch",
+    "price": 140.00,
+    "description": "Elegant silver-tone watch with a clean, easy-to-read minimalist dial.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 24,
+    "title": "Canvas Weekend Duffle",
+    "price": 85.00,
+    "description": "Spacious canvas duffle bag equipped with sturdy handles for quick getaways.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 25,
+    "title": "Wool Fedora Hat",
+    "price": 48.00,
+    "description": "Structured wool fedora hat perfect for adding a sophisticated touch.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 26,
+    "title": "Layered Gold Necklace",
+    "price": 62.00,
+    "description": "Exquisite layered necklace set plated in 18k gold for lasting shine.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 27,
+    "title": "Silk Patterned Scarf",
+    "price": 29.99,
+    "description": "Soft silk scarf with a vibrant geometric pattern, ideal for all seasons.",
+    "category": "accessories",
+    "image": "https://images.pexels.com/photos/6567272/pexels-photo-6567272.jpeg"
+  },
+  {
+    "id": 28,
+    "title": "Leather Crossbody Bag",
+    "price": 95.00,
+    "description": "Compact yet roomy crossbody bag crafted from supple genuine leather.",
+    "category": "accessories",
+    "image": "https://images.pexels.com/photos/27204286/pexels-photo-27204286.jpeg"
+  },
+  {
+    "id": 29,
+    "title": "Woven Sun Hat",
+    "price": 22.50,
+    "description": "Wide-brimmed woven hat providing excellent sun protection and beach-ready style.",
+    "category": "accessories",
+    "image": "https://images.pexels.com/photos/8093148/pexels-photo-8093148.jpeg"
+  },
+  {
+    "id": 30,
+    "title": "Slim Leather Wallet",
+    "price": 40.00,
+    "description": "Minimalist leather wallet designed to hold essential cards without bulk.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&h=800&q=80"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 19,
+    "title": "Asymmetric Draped Silk Top",
+    "price": 68.50,
+    "description": "An elegant, lightweight top featuring an asymmetric drape and a breathable silk-blend fabric perfect for evening wear or elevated day looks.",
+    "category": "women",
+    "image": "https://images.unsplash.com/photo-1581093196277-9f6c20ba2b4e?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 21,
+    "title": "Slim Fit Urban Wool Blazer",
+    "price": 135.00,
+    "description": "Modern tailoring meets classic style. This slim-fit blazer features sharp lapels and a stretch-wool blend for maximum comfort and mobility.",
+    "category": "men",
+    "image": "https://images.unsplash.com/photo-1534030347209-467a5b0ad3e6?auto=format&fit=crop&w=600&h=800&q=80"
+  },
+  {
+    "id": 29,
+    "title": "Minimalist Leather Crossbody Bag",
+    "price": 95.00,
+    "description": "Crafted from full-grain textured leather, this versatile crossbody bag offers clean lines, durable hardware, and spacious internal compartments.",
+    "category": "accessories",
+    "image": "https://images.unsplash.com/photo-1479064555952-34b291d98ede?auto=format&fit=crop&w=600&h=800&q=80"
+  }
+]
